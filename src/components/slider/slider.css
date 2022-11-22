@@ -1,0 +1,25 @@
+
+.slick-slider {
+    padding: 25px 0px;
+    margin: 25px 0px;
+    width: 90%;
+}
+
+.slider-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.slick-next:before {
+    color: black;
+}
+
+.slick-prev {
+    left: -35px
+}
+
+.slick-prev:before {
+    color: black;
+}

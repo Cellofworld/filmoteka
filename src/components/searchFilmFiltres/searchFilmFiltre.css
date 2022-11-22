@@ -1,0 +1,14 @@
+
+.search-film-filtres-results {
+    padding: 50px 70px;
+}
+
+.search-film-filtres-cont {
+    display: flex;
+}
+
+.earch-film-filtres-title {
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 600;
+}

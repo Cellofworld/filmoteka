@@ -1,0 +1,59 @@
+.main-film-filtres {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: fit-content;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.filtres-title {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.filtres-item {
+    padding: 10px;
+    margin: 15px 0px
+}
+
+.filtres-year-title {
+    display: flex;
+}
+
+.input-title {
+    margin-left: 10px;
+}
+
+.input-filtres-years {
+    margin-top: 5px;
+}
+
+.select-items,
+.search-filtres-button
+{
+    margin-top: 5px;
+    height: 25px;
+    width: 150px;
+}
+
+.filtres-type,
+.filtres-order,
+.filtres-genres {
+    margin-top: 10px;
+}
+
+.filtre-title-second {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.search-filtres-button {
+    margin-top: 20px;
+}
+
+.search-filtres-button:hover {
+    cursor: pointer;
+}

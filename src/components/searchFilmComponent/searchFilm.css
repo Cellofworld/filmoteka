@@ -1,0 +1,82 @@
+
+.search-film-page {
+    padding: 0px 70px;
+}
+
+.search-film-value {
+    font-size: 20px;
+}
+
+.link-items-results {
+    text-decoration: none;
+    padding: 20px 0px;
+}
+
+.search-film-info {
+    margin: 25px 0px;
+    padding: 25px 50px;
+    background-color: white;
+}
+
+.search-film-results {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.search-film-results-item {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.search-film-results-item-img {
+    width: 270px;
+    height: 100%;
+}
+
+.search-film-results-info {
+    width: 65%;
+    margin-left: 30px;
+    padding: 10px 0px;
+    color: black;
+}
+
+.search-film-results-name-ru {
+    font-size: 35px;
+}
+
+.search-film-results-name-en {
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.search-film-results-tags {
+    display: flex;
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+.search-film-results-year {
+    margin: 0px 15px;
+}
+
+.search-film-results-genres {
+    display: flex;
+}
+
+.search-film-results-genres-items {
+    margin: 0px 3px;
+}
+
+.search-film-results-description {
+    margin-top: 30px;
+    font-size: 18px;
+    height: 50%;
+    overflow: auto;
+}
+
+.search-film-results-description::-webkit-scrollbar {
+    width: 0;
+  }
