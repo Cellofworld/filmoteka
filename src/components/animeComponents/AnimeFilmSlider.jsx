@@ -1,7 +1,6 @@
 import CarouselSlider from "../slider/SliderPopRelises";
 import { useSelector, useDispatch } from "react-redux";
 import { useEffect } from "react";
-// import { fetchAnimeSliderFilm } from "../../store/animeFilm";
 import { fetchAnimeSliderFilm } from "../../store/animeSlice/fetchingSliderAnime";
 
 
